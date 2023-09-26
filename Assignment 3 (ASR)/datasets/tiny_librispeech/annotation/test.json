@@ -1,0 +1,62 @@
+{
+    "61-70970-0040": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0040.flac",
+        "length": 4.165,
+        "words": "THEY REGAINED THEIR APARTMENT APPARENTLY WITHOUT DISTURBING THE HOUSEHOLD OF GAMEWELL",
+        "phn": "DH EY R IY G EY N D DH EH R AH P AA R T M AH N T AH P EH R AH N T L IY W IH TH AW T D IH S T ER B IH NG DH AH HH AW S HH OW L D AH V <UNK>"
+    },
+    "61-70970-0017": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0017.flac",
+        "length": 2.55,
+        "words": "REST AND BE STILL UNTIL I WARN YOU",
+        "phn": "R EH S T AH N D B IY S T IH L AH N T IH L AY W AO R N Y UW"
+    },
+    "61-70970-0001": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0001.flac",
+        "length": 6.155,
+        "words": "THERE BEFELL AN ANXIOUS INTERVIEW MISTRESS FITZOOTH ARGUING FOR AND AGAINST THE SQUIRE'S PROJECT IN A BREATH",
+        "phn": "DH EH R B IH F EH L AE N AE NG K SH AH S IH N T ER V Y UW M IH S T R AH S <UNK> AA R G Y UW IH NG F AO R AH N D AH G EH N S T DH AH S K W AY R EH S P R AA JH EH K T IH N AH B R EH TH"
+    },
+    "61-70970-0021": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0021.flac",
+        "length": 5.405,
+        "words": "THEY THEN RENEWED THEIR JOURNEY AND UNDER THE BETTER LIGHT MADE A SAFE CROSSING OF THE STABLE ROOFS",
+        "phn": "DH EY DH EH N R IH N UW D DH EH R JH ER N IY AH N D AH N D ER DH AH B EH T ER L AY T M EY D AH S EY F K R AO S IH NG AH V DH AH S T EY B AH L R UW F S"
+    },
+    "61-70970-0037": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0037.flac",
+        "length": 5.98,
+        "words": "HIS TONES RANG PLEASANTLY ON WARRENTON'S EARS AND FORTHWITH A GOOD FELLOWSHIP WAS HERALDED BETWEEN THEM",
+        "phn": "HH IH Z T OW N Z R AE NG P L EH Z AH N T L IY AA N W AA R AH N T AH N EH S IH R Z AH N D F AO R TH W IH TH AH G UH D F EH L OW SH IH P W AA Z HH EH R AH L D IH D B IH T W IY N DH EH M"
+    },
+    "61-70970-0036": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0036.flac",
+        "length": 6.785,
+        "words": "ROBIN FITZOOTH SAW THAT HIS DOUBTS OF WARRENTON HAD BEEN UNFAIR AND HE BECAME ASHAMED OF HIMSELF FOR HARBORING THEM",
+        "phn": "R AA B AH N <UNK> S AO DH AE T HH IH Z D AW T S AH V W AA R AH N T AH N HH AE D B IH N AH N F EH R AH N D HH IY B IH K EY M AH SH EY M D AH V HH IH M S EH L F F AO R HH AA R B ER IH NG DH EH M"
+    },
+    "61-70970-0020": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0020.flac",
+        "length": 5.025,
+        "words": "WILL WHISPERED ROBIN OPENING HIS DOOR AS HE SPOKE ARE YOU READY",
+        "phn": "W IH L W IH S P ER D R AA B AH N OW P AH N IH NG HH IH Z D AO R AE Z HH IY S P OW K AA R Y UW R EH D IY"
+    },
+    "61-70970-0000": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0000.flac",
+        "length": 6.075,
+        "words": "YOUNG FITZOOTH HAD BEEN COMMANDED TO HIS MOTHER'S CHAMBER SO SOON AS HE HAD COME OUT FROM HIS CONVERSE WITH THE SQUIRE",
+        "phn": "Y AH NG <UNK> HH AE D B IH N K AH M AE N D AH D T UW HH IH Z M AH DH ER EH S CH EY M B ER S OW S UW N AE Z HH IY HH AE D K AH M AW T F R AH M HH IH Z K AA N V ER S W IH DH DH AH S K W AY R"
+    },
+    "61-70970-0016": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0016.flac",
+        "length": 4.37,
+        "words": "WE WILL GO OUT TOGETHER TO THE BOWER THERE IS A WAY DOWN TO THE COURT FROM MY WINDOW",
+        "phn": "W IY W IH L G OW AW T T AH G EH DH ER T UW DH AH B AW ER DH EH R IH Z AH W EY D AW N T UW DH AH K AO R T F R AH M M AY W IH N D OW"
+    },
+    "61-70970-0027": {
+        "wav": "{data_root}/audio/test-clean/61/70970/61-70970-0027.flac",
+        "length": 5.08,
+        "words": "ROBIN CAREFULLY DESCENDED THE LADDER AND FOUND HIMSELF SOON UPON FIRM ROCKY GROUND",
+        "phn": "R AA B AH N K EH R F AH L IY D IH S EH N D AH D DH AH L AE D ER AH N D F AW N D HH IH M S EH L F S UW N AH P AA N F ER M R AA K IY G R AW N D"
+    }
+}

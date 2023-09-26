@@ -1,0 +1,64 @@
+Model initialized.
+Start training...
+Epoch 1, Loss: 3.5640: 100%|██████████| 123/123 [00:42<00:00,  2.91it/s]
+[Epoch 01], Train Loss: 4.41813, Valid Loss 4.40427, Time 47.35s
+Split Train F1/Accuracy: Onset 0.1299 | Offset 0.0417 | Octave 0.6487 | Pitch Class 0.4782
+Split Valid F1/Accuracy: Onset 0.1692 | Offset 0.0421 | Octave 0.5621 | Pitch Class 0.4855
+Split Train Loss: Onset 0.7766 | Offset 0.8315 | Octave 0.9255 | Pitch Class 1.8845
+Split Valid Loss: Onset 0.6896 | Offset 0.7727 | Octave 1.1387 | Pitch Class 1.8033
+Epoch 2, Loss: 3.3269: 100%|██████████| 123/123 [00:34<00:00,  3.61it/s]
+[Epoch 02], Train Loss: 3.73571, Valid Loss 4.15053, Time 84.67s
+Split Train F1/Accuracy: Onset 0.2019 | Offset 0.1192 | Octave 0.7002 | Pitch Class 0.5843
+Split Valid F1/Accuracy: Onset 0.1733 | Offset 0.0989 | Octave 0.5620 | Pitch Class 0.5143
+Split Train Loss: Onset 0.6919 | Offset 0.7725 | Octave 0.7896 | Pitch Class 1.4816
+Split Valid Loss: Onset 0.6642 | Offset 0.7352 | Octave 1.0760 | Pitch Class 1.6751
+Epoch 3, Loss: 3.1782: 100%|██████████| 123/123 [00:34<00:00,  3.53it/s]
+[Epoch 03], Train Loss: 3.52194, Valid Loss 4.01999, Time 122.92s
+Split Train F1/Accuracy: Onset 0.2111 | Offset 0.1442 | Octave 0.7133 | Pitch Class 0.6187
+Split Valid F1/Accuracy: Onset 0.1790 | Offset 0.1199 | Octave 0.5650 | Pitch Class 0.5247
+Split Train Loss: Onset 0.6699 | Offset 0.7493 | Octave 0.7507 | Pitch Class 1.3520
+Split Valid Loss: Onset 0.6538 | Offset 0.7209 | Octave 1.0480 | Pitch Class 1.5972
+Epoch 4, Loss: 3.0840: 100%|██████████| 123/123 [00:33<00:00,  3.71it/s]
+[Epoch 04], Train Loss: 3.38037, Valid Loss 3.93775, Time 159.24s
+Split Train F1/Accuracy: Onset 0.2163 | Offset 0.1533 | Octave 0.7237 | Pitch Class 0.6396
+Split Valid F1/Accuracy: Onset 0.1811 | Offset 0.1268 | Octave 0.5727 | Pitch Class 0.5313
+Split Train Loss: Onset 0.6534 | Offset 0.7347 | Octave 0.7238 | Pitch Class 1.2685
+Split Valid Loss: Onset 0.6511 | Offset 0.7224 | Octave 1.0233 | Pitch Class 1.5410
+Epoch 5, Loss: 3.0238: 100%|██████████| 123/123 [00:35<00:00,  3.50it/s]
+  0%|          | 0/123 [00:00<?, ?it/s][Epoch 05], Train Loss: 3.26962, Valid Loss 3.86280, Time 197.66s
+Split Train F1/Accuracy: Onset 0.2207 | Offset 0.1598 | Octave 0.7319 | Pitch Class 0.6544
+Split Valid F1/Accuracy: Onset 0.1856 | Offset 0.1304 | Octave 0.5833 | Pitch Class 0.5389
+Split Train Loss: Onset 0.6416 | Offset 0.7247 | Octave 0.7004 | Pitch Class 1.2029
+Split Valid Loss: Onset 0.6460 | Offset 0.7156 | Octave 1.0032 | Pitch Class 1.4980
+Epoch 6, Loss: 2.9722: 100%|██████████| 123/123 [00:34<00:00,  3.52it/s]
+[Epoch 06], Train Loss: 3.17896, Valid Loss 3.81257, Time 236.07s
+Split Train F1/Accuracy: Onset 0.2234 | Offset 0.1634 | Octave 0.7407 | Pitch Class 0.6660
+Split Valid F1/Accuracy: Onset 0.1915 | Offset 0.1350 | Octave 0.5876 | Pitch Class 0.5434
+Split Train Loss: Onset 0.6326 | Offset 0.7164 | Octave 0.6796 | Pitch Class 1.1503
+Split Valid Loss: Onset 0.6381 | Offset 0.7120 | Octave 0.9965 | Pitch Class 1.4660
+Epoch 7, Loss: 2.9277: 100%|██████████| 123/123 [00:40<00:00,  3.04it/s]
+[Epoch 07], Train Loss: 3.10615, Valid Loss 3.77621, Time 280.25s
+Split Train F1/Accuracy: Onset 0.2260 | Offset 0.1675 | Octave 0.7480 | Pitch Class 0.6754
+Split Valid F1/Accuracy: Onset 0.1980 | Offset 0.1343 | Octave 0.5915 | Pitch Class 0.5490
+Split Train Loss: Onset 0.6248 | Offset 0.7105 | Octave 0.6618 | Pitch Class 1.1091
+Split Valid Loss: Onset 0.6324 | Offset 0.7115 | Octave 0.9933 | Pitch Class 1.4390
+Epoch 8, Loss: 2.8793: 100%|██████████| 123/123 [00:36<00:00,  3.39it/s]
+[Epoch 08], Train Loss: 3.04336, Valid Loss 3.74461, Time 319.61s
+Split Train F1/Accuracy: Onset 0.2268 | Offset 0.1703 | Octave 0.7544 | Pitch Class 0.6832
+Split Valid F1/Accuracy: Onset 0.2066 | Offset 0.1362 | Octave 0.5930 | Pitch Class 0.5506
+Split Train Loss: Onset 0.6178 | Offset 0.7044 | Octave 0.6473 | Pitch Class 1.0739
+Split Valid Loss: Onset 0.6264 | Offset 0.7110 | Octave 0.9883 | Pitch Class 1.4189
+Epoch 9, Loss: 2.8519: 100%|██████████| 123/123 [00:36<00:00,  3.38it/s]
+[Epoch 09], Train Loss: 2.98933, Valid Loss 3.66994, Time 359.69s
+Split Train F1/Accuracy: Onset 0.2300 | Offset 0.1728 | Octave 0.7594 | Pitch Class 0.6901
+Split Valid F1/Accuracy: Onset 0.2090 | Offset 0.1348 | Octave 0.6048 | Pitch Class 0.5606
+Split Train Loss: Onset 0.6120 | Offset 0.6981 | Octave 0.6351 | Pitch Class 1.0441
+Split Valid Loss: Onset 0.6205 | Offset 0.7087 | Octave 0.9678 | Pitch Class 1.3729
+Epoch 10, Loss: 2.8220: 100%|██████████| 123/123 [00:33<00:00,  3.67it/s]
+[Epoch 10], Train Loss: 2.94218, Valid Loss 3.67916, Time 396.54s
+Split Train F1/Accuracy: Onset 0.2320 | Offset 0.1762 | Octave 0.7640 | Pitch Class 0.6959
+Split Valid F1/Accuracy: Onset 0.2124 | Offset 0.1336 | Octave 0.5972 | Pitch Class 0.5591
+Split Train Loss: Onset 0.6072 | Offset 0.6927 | Octave 0.6237 | Pitch Class 1.0186
+Split Valid Loss: Onset 0.6179 | Offset 0.7125 | Octave 0.9796 | Pitch Class 1.3691
+Training done in 6.6 minutes.
+Best model from epoch:  9
